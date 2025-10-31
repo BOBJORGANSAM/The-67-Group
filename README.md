@@ -8,8 +8,7 @@ the-best-group
 
 **Classification:** [Video Game]
 
-**Pitch:** [A unique hand made racing game with a red car]
-
+**Pitch:** [A fast-paced racing game using code. Players compete to set the best time while mastering dodging obstacles and finding speed boosts.
 ![Class Diagram](class-diagram.png)
 ![UI Mockup](mockup.png)
 
