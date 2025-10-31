@@ -1,14 +1,14 @@
-# The Racing Game
+# The 6/7 Group
 the-best-group 
 
 
 
 
-# [Project Title]
+# [Racing Game]
 
-**Classification:** [Your Choice]
+**Classification:** [Video Game]
 
-**Pitch:** [One compelling sentence]
+**Pitch:** [A unique hand made racing game with a red car]
 
 ![Class Diagram](class-diagram.png)
 ![UI Mockup](mockup.png)
