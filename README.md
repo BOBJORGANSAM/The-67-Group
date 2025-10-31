@@ -11,7 +11,7 @@
 
 
 ![Class Diagram](class-diagram.png)
-![UI Mockup](mockup.png)
+![UI Mockup](https://github.com/BOBJORGANSAM/The-67-Group/blob/main/images/IMG_5418.jpeg?raw=true)
 
 
 ## Core Classes
