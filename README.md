@@ -4,7 +4,7 @@
 # [Racing Game]
 
 
-**Classification:** [Video Game]
+**Classification:** [Interactive Video Game]
 
 
 **Pitch:** [This is a fast-paced racing game using code. Players compete to set the best time while mastering dodging obstacles and finding speed boosts.
