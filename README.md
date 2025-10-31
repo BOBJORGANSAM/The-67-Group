@@ -10,7 +10,7 @@
 **Pitch:** [This is a fast-paced racing game using code. Players must master dodging obstacles and finding speed boosts to win the game]
 
 
-![Class Diagram](class-diagram.png)
+![Class Diagram](https://github.com/BOBJORGANSAM/The-67-Group/blob/main/images/RacingGameUML.jpg?raw=true)
 ![UI Mockup](https://github.com/BOBJORGANSAM/The-67-Group/blob/main/images/IMG_5418.jpeg?raw=true)
 
 
