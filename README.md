@@ -7,7 +7,7 @@
 **Classification:** [Interactive Video Game]
 
 
-**Pitch:** [This is a fast-paced racing game using code. Players compete to set the best time while mastering dodging obstacles and finding speed boosts.
+**Pitch:** [This is a fast-paced racing game using code. Players must master dodging obstacles and finding speed boosts to win the game]
 
 
 ![Class Diagram](class-diagram.png)
