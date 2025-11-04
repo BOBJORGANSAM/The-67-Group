@@ -22,7 +22,6 @@
 
 
 ## Group
-- Angie Liu (@angieliu4)
 - Alisa Pavlova (@alisapa8)
 - Samuel Harmon (@BOBJORGANSAM)
 - Jack Quinn (@9623993-prog)
