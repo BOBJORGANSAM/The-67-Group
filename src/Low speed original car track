@@ -41,8 +41,8 @@ void draw() {
 }
 
 void keyPressed() {
-  if (keyCode == LEFT) carX -= 10;
-  if (keyCode == RIGHT) carX += 10;
+  if (keyCode == LEFT) carX -= 20;
+  if (keyCode == RIGHT) carX += 20;
 }
 
 void drawRoad(float yOffset) {
