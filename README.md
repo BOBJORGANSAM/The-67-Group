@@ -17,8 +17,8 @@
 ## Core Classes
 | Class | Role |
 |-------|------|
-| `Main` | `setup()`, `draw()` |
-| `...` | ... |
+| `car` | `Player` |
+| `obstical` | `enemy` |
 
 
 ## Group
