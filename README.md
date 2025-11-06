@@ -17,7 +17,7 @@
 ## Core Classes
 | Class | Role |
 |-------|------|
-| `Main` | `setup()`, `draw()` |
+| `main` | `setup()`, `draw()` |
 | `...` | ... |
 
 
