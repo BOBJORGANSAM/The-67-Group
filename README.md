@@ -23,6 +23,6 @@
 
 ## Group
 - Alisa Pavlova (@alisapa8)
-- Samuel Harmon (@BOBJORGANSAM)
+- Samuel Harmon (@BOBJORGANSAM -reasercher)
 - Jack Quinn (@9623993-prog)
 - Samuel Maass (@9634718 -prog/outliner)
