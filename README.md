@@ -22,7 +22,7 @@
 
 
 ## Group
-- Alisa Pavlova (@alisapa8 -disigner)
+- Alisa Pavlova (@alisapa8 -designer)
 - Samuel Harmon (@BOBJORGANSAM -reasercher)
 - Jack Quinn (@9623993-prog)
 - Samuel Maass (@9634718 -prog/outliner)
