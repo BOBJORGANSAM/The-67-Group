@@ -7,7 +7,7 @@
 **Classification:** [Interactive Video Game]
 
 
-**Pitch:** [This is a fast-paced racing game using code. Players must master dodging obstacles and finding speed boosts to win the game]
+**Pitch:** [This is a fast racing game, in which players must dodge obstacles and find speed boosts to try and achieve a high score. The game gets more difficult as the speed grows. Let's go Racing!]
 
 
 ![Class Diagram](https://github.com/BOBJORGANSAM/The-67-Group/blob/main/images/RacingGameUML.jpg?raw=true)
