@@ -24,5 +24,5 @@
 ## Group
 - Alisa Pavlova (@alisapa8 -designer)
 - Samuel Harmon (@BOBJORGANSAM -reasercher)
-- Jack Quinn (@9623993-prog)
+- Jack Quinn (@9623993-prog / Diagramer)
 - Samuel Maass (@9634718 -prog/outliner)
