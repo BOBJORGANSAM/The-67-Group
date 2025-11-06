@@ -17,7 +17,7 @@
 ## Core Classes
 | Class | Role |
 |-------|------|
-| `Timline` | `setup()`, `draw()` |
+| `Main` | `setup()`, `draw()` |
 | `...` | ... |
 
 
