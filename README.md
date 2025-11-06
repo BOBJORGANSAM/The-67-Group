@@ -4,7 +4,7 @@
 # [Racing Game]
 
 
-**Classification:** [Interactive Video Game]
+**Classification:** [Interactive Racing Video Game]
 
 
 **Pitch:** [This is a fast racing game, in which players must dodge obstacles and find speed boosts to try and achieve a high score. The game gets more difficult as the speed grows. Let's go Racing!]
