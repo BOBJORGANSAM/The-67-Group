@@ -24,5 +24,5 @@
 ## Group
 - Alisa Pavlova (@alisapa8 -designer)
 - Samuel Harmon (@BOBJORGANSAM -reasercher)
-- Jack Quinn (@9623993-prog / Diagramer)
+- Jack Quinn (@9623993-prog / Diagramer (Car Game)
 - Samuel Maass (@9634718 -prog/outliner)
