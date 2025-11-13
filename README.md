@@ -9,11 +9,11 @@
 
 This is a fast paced racing game, in which players must dodge obstacles and find fuel pickups to try and get the highest score!
 
-##![Class Diagram](https://github.com/BOBJORGANSAM/The-67-Group/blob/main/images/Racing%20Game%20Diagram.png?raw=true)
+![Class Diagram](https://github.com/BOBJORGANSAM/The-67-Group/blob/main/images/Racing%20Game%20Diagram.png?raw=true)
 
 
 
-##![UI Mockup](https://github.com/BOBJORGANSAM/The-67-Group/blob/main/images/Racing%20GameUI.png?raw=true)
+![UI Mockup](https://github.com/BOBJORGANSAM/The-67-Group/blob/main/images/Racing%20GameUI.png?raw=true)
 
 
 ## Core Classes
