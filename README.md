@@ -1,10 +1,10 @@
 # The 6/7 Group
 
 
-# [Racing Game]
+# Racing Game
 
 
-**Classification:** [Interactive Racing Video Game]
+**Classification:** [Interactive Racing Game]
 
 
 **Pitch:** [This is a fast paced racing game, in which players must dodge obstacles and find fuel pickups to try and get the highest score!]
