@@ -7,7 +7,7 @@
 **Classification:** [Interactive Racing Video Game]
 
 
-**Pitch:** [This is a fast racing game, in which players must dodge obstacles to try and achieve a high score.]
+**Pitch:** [This is a fast paced racing game, in which players must dodge obstacles and find fuel pickups to try and get the highest score!]
 
 ![Class Diagram](https://github.com/BOBJORGANSAM/The-67-Group/blob/main/images/RacingGameUML.jpg?raw=true)
 ![UI Mockup](https://github.com/BOBJORGANSAM/The-67-Group/blob/main/images/IMG_5418.jpeg?raw=true)
