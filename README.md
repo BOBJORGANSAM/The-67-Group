@@ -22,4 +22,4 @@ This is a fast paced racing game, in which players must dodge obstacles and find
 
 ## Group
 - Samuel Harmon (@BOBJORGANSAM -reasercher)
-- Jack Quinn (@9623993-prog / Designer (Car Game)
+- Jack Quinn (@9623993-prog / Designer
