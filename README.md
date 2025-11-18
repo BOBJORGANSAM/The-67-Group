@@ -3,6 +3,8 @@
 
 # Racing Game
 
+! [Logo of Game] (https://github.com/BOBJORGANSAM/The-67-Group/blob/main/images/Logo%20Race%20Game.png?raw=true)
+
 
 **Classification:** Interactive Racing Game
 
