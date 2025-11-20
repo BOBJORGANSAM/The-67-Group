@@ -118,6 +118,7 @@ void drawSettingsScreen() {
   fill(255);
   textAlign(CENTER);
   textSize(30);
+  fill(40);
   text("Settings", width/2, 150);
 
   textSize(18);
