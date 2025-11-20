@@ -36,8 +36,12 @@ class Car {
     image(img, x, y);
   }
 
-  void moveLeft() { x -= 20; }
-  void moveRight() { x += 20; }
+  void moveLeft() {
+    x -= 20;
+  }
+  void moveRight() {
+    x += 20;
+  }
 
   PImage createCarImage() {
     PGraphics pg = createGraphics(40, 60);
@@ -50,6 +54,8 @@ class Car {
     pg.rect(27, 10, 5, 10);
     pg.fill(255, 0, 0);
     pg.rect(10, 10, 20, 40);
+    pg.fill(#DBFFFC);
+    pg.rect(10,10,20,15);
     pg.endDraw();
     return pg.get();
   }
@@ -94,13 +100,13 @@ void drawHomeScreen() {
   textSize(40);
   fill(#3136FF);
   text("Racing Game", width/2, 150);
-  
+
   fill(0, 200, 0);
   rect(125, 250, 150, 50);
   fill(255);
   textSize(24);
   text("RACE", 200, 280);
-  
+
   fill(#3136FF);
   rect(125, 320, 150, 50);
   fill(255);
@@ -113,7 +119,7 @@ void drawSettingsScreen() {
   textAlign(CENTER);
   textSize(30);
   text("Settings", width/2, 150);
-  
+
   textSize(18);
   text("Difficulty", width/2, 250);
 
