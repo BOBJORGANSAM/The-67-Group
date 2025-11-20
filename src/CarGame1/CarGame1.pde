@@ -64,6 +64,8 @@ class Car {
 void keyPressed() {
   if (state.equals("GAME")) {
     if (!game.crashed) {
+      if (keyCode == 65) game.car.moveLeft();
+      if (keyCode == 68) game.car.moveRight();
       if (keyCode == LEFT) game.car.moveLeft();
       if (keyCode == RIGHT) game.car.moveRight();
     } else {
