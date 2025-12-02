@@ -1,3 +1,5 @@
+//Sam Harmon
+
 class Game {
   Car car;
   ArrayList<Obstacle> obstacles;
@@ -37,7 +39,7 @@ class Game {
       fill(255, 0, 0);
       textSize(45);
       textAlign(CENTER);
-      text("CRASH!", width / 2, height / 2);
+      text("Crash! Game Over!", width / 2, height / 2);
       text("Score: " + score, width / 2, height / 2 + 40);
     }
   }
