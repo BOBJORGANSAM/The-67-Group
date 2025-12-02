@@ -36,11 +36,21 @@ class Game {
       fuel -= fuelDrainRate * 0.1;
       if (fuel <= 0) crashed = true;
     } else {
-      fill(255, 0, 0);
-      textSize(45);
+      background(#DBDBDB);
+      fill(#2C47F0);
+      textSize(50);
       textAlign(CENTER);
-      text("Crash! Game Over!", width / 2, height / 2);
-      text("Score: " + score, width / 2, height / 2 + 40);
+      text("Crash!", width / 2, height / 2 - 125);
+      text("Game Over!", width / 2, height / 2 - 75);
+      fill(#FFF048);
+      text("Score: " + score, width / 2, height / 2 + 50);
+      fill(#080707);
+      textSize(35);
+      fill(#DE0004);
+      stroke(50);
+      rect(40,465,320,50);
+      fill(0);
+      text("Press Enter for Menu", width /2, height / 2 + 200);
     }
   }
 
