@@ -55,7 +55,7 @@ class Car {
     pg.fill(255, 0, 0);
     pg.rect(10, 10, 20, 40);
     pg.fill(#DBFFFC);
-    pg.rect(10,10,20,15);
+    pg.rect(10, 10, 20, 15);
     pg.endDraw();
     return pg.get();
   }
@@ -70,7 +70,7 @@ void keyPressed() {
       if (keyCode == RIGHT) game.car.moveRight();
     } else {
       if (key == ENTER) {
-        game.reset();
+        state = "HOME";
       }
     }
   }
@@ -125,9 +125,17 @@ void drawSettingsScreen() {
 
   textSize(18);
   text("Difficulty", width/2, 250);
+  rect(50, 270, 300, 5);
+  //rect(0,0,0,0); for the slider
 
   fill(150, 0, 0);
   rect(50, 500, 300, 50);
   fill(255);
   text("BACK TO RACING", 200, 530);
+
+  fill(150, 0, 0);
+  fill(40);
+  text("SOUND", width/2, 330);
+  rect(50, 345, 300, 5);
+  //rect(0,0,0,0); for the slider
 }
