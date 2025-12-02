@@ -96,46 +96,48 @@ void mousePressed() {
 }
 
 void drawHomeScreen() {
-  background(#BCBCBC);
+  background(#DBDBDB);
   fill(255);
   textAlign(CENTER);
   textSize(40);
-  fill(#3136FF);
+  fill(0);
   text("Racing Game", width/2, 150);
 
   fill(0, 200, 0);
   rect(125, 250, 150, 50);
-  fill(255);
+  fill(0);
   textSize(24);
-  text("RACE", 200, 280);
+  text("RACE", 200, 283);
 
   fill(#3136FF);
   rect(125, 320, 150, 50);
-  fill(255);
-  text("SETTINGS", 200, 350);
+  fill(0);
+  text("SETTINGS", 200, 353);
 }
 
 void drawSettingsScreen() {
-  background(80, 80, 120);
+  background(#DBDBDB);
   fill(255);
   textAlign(CENTER);
   textSize(30);
   fill(40);
   text("Settings", width/2, 150);
 
-  textSize(18);
+  textSize(25);
   text("Difficulty", width/2, 250);
   rect(50, 270, 300, 5);
   //rect(0,0,0,0); for the slider
 
-  fill(150, 0, 0);
+  fill(#DE0004);
   rect(50, 500, 300, 50);
-  fill(255);
-  text("BACK TO RACING", 200, 530);
+  fill(0);
+  textSize(30);
+  text("BACK TO RACING", 200, 535);
 
   fill(150, 0, 0);
   fill(40);
-  text("SOUND", width/2, 330);
+  textSize(25);
+  text("Sound", width/2, 330);
   rect(50, 345, 300, 5);
   //rect(0,0,0,0); for the slider
 }
