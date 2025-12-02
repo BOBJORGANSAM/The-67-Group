@@ -1,5 +1,3 @@
-//Sam Harmon
-
 class Game {
   Car car;
   ArrayList<Obstacle> obstacles;
