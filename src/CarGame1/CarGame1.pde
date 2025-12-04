@@ -1,6 +1,4 @@
-//Sam Harmon
-
-Game game;   // Jack - I removed the Car Car; (11/18)
+Game game; 
 String state = "HOME";
 
 void setup() {
@@ -103,7 +101,7 @@ void drawHomeScreen() {
   fill(0);
   text("Racing Game", width/2, 150);
 
-  fill(0, 200, 0);
+  fill(#29980B);
   rect(125, 250, 150, 50);
   fill(0);
   textSize(24);
