@@ -1,10 +1,10 @@
-//Jack Quinn
-
 class Obstacle {
   PVector pos;
+  PImage obstacleImg;  
 
   Obstacle(float x, float y) {
     pos = new PVector(x, y);
+    obstacleImg = loadImage("trafficcone.png");  
   }
 
   void update(float speed) {
@@ -12,8 +12,13 @@ class Obstacle {
   }
 
   void draw() {
-    fill(0);
-    rect(pos.x - 10, pos.y - 10, 20, 20);
+    imageMode(CENTER);
+    if (obstacleImg != null) {
+      image(obstacleImg, pos.x, pos.y, 50, 50);
+    } else {
+      fill(0);
+      rect(pos.x - 10, pos.y - 10, 20, 20);
+    }
   }
 
   boolean isOffScreen(float height) {
