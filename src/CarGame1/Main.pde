@@ -38,8 +38,8 @@ class Main {
       fill(#2C47F0);
       textSize(50);
       textAlign(CENTER);
-      text("Crash!", width / 2, height / 2 - 125);
-      text("Game Over!", width / 2, height / 2 - 75);
+      text("KABOOM!", width / 2, height / 2 - 125);
+      text("Game Over!", width / 2, height / 2 - 60);
       fill(#29980B);
       text("Score: " + score, width / 2, height / 2 + 50);
       fill(#080707);
