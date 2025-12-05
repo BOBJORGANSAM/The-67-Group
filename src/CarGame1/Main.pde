@@ -1,4 +1,4 @@
-class Game {
+class Main {
   Car car;
   ArrayList<Obstacle> obstacles;
   ArrayList<FuelPickup> fuels;
@@ -11,7 +11,7 @@ class Game {
   float fuel = 100;
   int fuelDrainRate = 1;
 
-  Game() {
+  Main() {
     roadX = width / 2 - roadWidth / 3;
     car = new Car(width / 2, height - 100);
     obstacles = new ArrayList<Obstacle>();
