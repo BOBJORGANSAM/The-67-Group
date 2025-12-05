@@ -1,9 +1,9 @@
-Game game; 
+Main game; 
 String state = "HOME";
 
 void setup() {
   size(400, 600);
-  game = new Game();
+  game = new Main();
 }
 
 void draw() {
@@ -76,17 +76,14 @@ void keyPressed() {
 
 void mousePressed() {
   if (state.equals("HOME")) {
-    // Play button
     if (mouseX > 150 && mouseX < 250 && mouseY > 250 && mouseY < 300) {
       state = "GAME";
       game.reset();
     }
-    // Settings button
     if (mouseX > 150 && mouseX < 250 && mouseY > 320 && mouseY < 370) {
       state = "SETTINGS";
     }
   } else if (state.equals("SETTINGS")) {
-    // Simple back button
     if (mouseX > 150 && mouseX < 250 && mouseY > 500 && mouseY < 550) {
       state = "HOME";
     }
@@ -124,7 +121,7 @@ void drawSettingsScreen() {
   textSize(25);
   text("Difficulty", width/2, 250);
   rect(50, 270, 300, 5);
-  //rect(0,0,0,0); for the slider
+  //rect(0,0,0,0); for the slider - Sam
 
   fill(#DE0004);
   rect(50, 500, 300, 50);
@@ -137,5 +134,5 @@ void drawSettingsScreen() {
   textSize(25);
   text("Sound", width/2, 330);
   rect(50, 345, 300, 5);
-  //rect(0,0,0,0); for the slider
+  //rect(0,0,0,0); for the slider - Sam
 }
