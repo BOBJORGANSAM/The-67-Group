@@ -1,4 +1,3 @@
-class Obstacle {
   PVector pos;
   PImage obstacleImg;  
 
