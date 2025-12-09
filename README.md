@@ -16,6 +16,7 @@ This is a fast paced racing game, in which players must dodge obstacles and find
 
 
 ![UI Mockup](https://github.com/BOBJORGANSAM/The-67-Group/blob/main/images/Racing%20GameUI.png?raw=true)
+![After the updates](https://github.com/BOBJORGANSAM/The-67-Group/blob/main/docs/Burning%20Rubber%20image.png?raw=true)
 
 
 ## Core Classes
