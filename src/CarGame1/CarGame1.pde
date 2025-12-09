@@ -1,4 +1,4 @@
-  Main game; 
+Main game; 
 String state = "HOME";
 
 void setup() {
