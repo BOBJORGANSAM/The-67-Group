@@ -23,7 +23,7 @@ This is a fast paced racing game, in which players must dodge obstacles and find
 |-------|------|
 | `car` | `Player` |
 | `obstical` | `enemy` |
-
+| `Fuel` | `Consumable` |
 
 ## Group
 - Samuel Harmon (@BOBJORGANSAM -Head reasercher)
