@@ -1,7 +1,7 @@
 # The 6/7 Group
 
 
-# Racing Game
+# Burning Rubber!!
 
 ![Logo of Game](https://github.com/BOBJORGANSAM/The-67-Group/blob/main/images/Logo%20Race%20Game.png?raw=true)
 
